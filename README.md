@@ -6,11 +6,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué construirás?](url)
-* [4. Objetivos de aprendizaje](url)
-* [5. Requisitos](url)
+* [1. Intro](https://github.com/mixoatl/clon-de-google#1-intro)
+* [2. Demo](https://github.com/mixoatl/clon-de-google#2-demo)
+* [3. ¿Qué construirás?](https://github.com/mixoatl/clon-de-google#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/mixoatl/clon-de-google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/mixoatl/clon-de-google#5-requisitos)
 
 ****
 
@@ -26,7 +26,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("./../imagenes/googlelogo.png)
+![imagen]("./../imagenes/captura-google.png)
 
 
 ## 3. ¿Qué construirás?
